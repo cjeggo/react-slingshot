@@ -4,4 +4,9 @@ orbs:
 workflows:
   node-tests:
     jobs:
+<<<<<<< Updated upstream
       - node/test
+=======
+      - build
+      #add more
+>>>>>>> Stashed changes
